@@ -1,8 +1,11 @@
 # Strava Kudo All WebExtension
 
-## Build
+build for google chrome extension and firefax extension
+
+### Build
+
 ```bash
-make build.chrome
-make build.firefox
+make build
 ```
+
 Archives output dir is `build/artefacts`.
