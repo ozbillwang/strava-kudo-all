@@ -94,11 +94,14 @@ function kudoAllHandler(event) {
     event.preventDefault();
 
     const icons = getKudosButtons();
-    icons.forEach(icon => {
-        const parentButton = icon.parentElement;
-        if (parentButton) {
-            parentButton.click();
-        }
+
+    icons.forEach((icon, index) => {
+        setTimeout(() => {
+            const parentButton = icon.parentElement;
+            if (parentButton) {
+                parentButton.click();
+            }
+        }, 200 * index); // milliseconds
     });
 }
 
