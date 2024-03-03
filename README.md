@@ -28,7 +28,7 @@ Now you access Strava website https://strava.com/, login
 
 In the dashbard, you can switch to different groups you followed. 
 
-The top right, an extra button appeared (sometimes, you need refresh seveal times)
+The top right, an extra button appeared (sometimes, you need refresh several times)
 
 ![image](https://github.com/ozbillwang/strava-kudo-all/assets/8954908/f6b06085-e744-45a7-b40e-10d9e26ebcf0)
 
