@@ -34,6 +34,8 @@ The top right, an extra button appeared (sometimes, you need refresh several tim
 
 Click "Kudo All", it will apply the `kudo` to top 20 updates.
 
+Please wait for a while before proceeding to the next groups. The codes have been updated to prevent rapid voting, so the Strata server may reject automated voting attempts if too quick
+
 ### Reference
 
 https://developer.chrome.com/docs/extensions/get-started
